@@ -1,0 +1,7 @@
+district,rmse,seasonal_periods,box_cox_used,arma_errors_used
+AHMEDNAGAR,15.505437090226295,None,False,False
+AKOLA,7.909961109364242,None,False,False
+AMRAVATI,18.852219102990105,None,True,True
+AURANGABAD,13.87493301721926,None,False,False
+BEED,11.55517719883649,None,True,False
+BHANDARA,5.292560266223312,None,True,False
